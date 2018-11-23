@@ -1,0 +1,24 @@
+Appointment Management System 
+
+CLASSES QUERIES
+
+MessageQueries = OK
+ExperienceQueries = OK
+TrackerQueries = OK
+ProfessionalQueries = OK
+ClientQueries = OK
+RateQueries = OK
+UserQueries = OK
+SchedularQueries = OK
+AchievmentQueries = 
+BookingQueries = 
+
+CLASSES CONTROLLERS
+
+ClientController =
+ProfController = 
+MsgController =
+RateController = 
+
+____System Functionalities____
+1) Expired bookings are Automatically deleted
